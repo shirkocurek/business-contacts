@@ -8,3 +8,4 @@ services:
     build: ./client
     ports:
       - 1234:1234
+      #test
